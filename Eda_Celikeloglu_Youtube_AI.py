@@ -263,7 +263,7 @@ def run_analysis(youtube_url: str) -> dict:
 
     songs_output = []
 
-    for song_name in tqdm(album_data["songs"][:2], desc="Processing songs"):
+    for song_name in tqdm(album_data["songs"], desc="Processing songs"):
         genius_url = get_genius_url(song_name, artist)
 
         with suppress_stdout_stderr():
