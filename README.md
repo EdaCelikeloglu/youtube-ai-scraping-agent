@@ -169,14 +169,6 @@ Screenshots are available in the `screenshots/` directory.
 
 ---
 
-## Submission Notes
-
-- API keys are not included in the repository.
-- The repository should be private.
-- Invite github@aimultiple.com to the repository.
-- Run commands exactly as specified in the usage section.
-
----
 
 ## Disclaimer
 
