@@ -35,7 +35,9 @@ The pipeline performs the following steps:
 
 Install dependencies:
 
+```
 pip install -r requirements.txt
+```
 
 Main dependencies include:
 
@@ -87,6 +89,18 @@ Prints only the final MD5 hash:
 python Eda_Celikeloglu_YouTube_AI.py "https://www.youtube.com/watch?v=VIDEO_ID" hash
 ```
 ---
+
+## Execution Proof
+
+The following screenshots demonstrate successful execution of the pipeline.
+
+- JSON output execution
+- Hash output execution
+
+Screenshots are available in the `screenshots/` directory.
+
+---
+
 
 ## JSON Output Structure
 
