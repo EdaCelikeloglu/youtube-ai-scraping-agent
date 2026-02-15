@@ -1,6 +1,6 @@
 # YouTube AI Scraping Agent
 
-This project implements a deterministic AI-powered pipeline developed for the AIMultiple technical assessment.
+This project implements a deterministic AI-powered pipeline developed.
 
 Given a YouTube URL of a song, the system identifies the artist, discovers the artist’s first studio album, scrapes lyrics for each song from Genius, and produces structured analytical outputs.
 
